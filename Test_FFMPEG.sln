@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26228.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Concatenation", "ConsoleApp1\Image Concatenation.csproj", "{B42A93BB-2DD6-4314-97D9-ECDDB3DF57F5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Image Concatenation", "Image Concatenation\Image Concatenation.csproj", "{B42A93BB-2DD6-4314-97D9-ECDDB3DF57F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
