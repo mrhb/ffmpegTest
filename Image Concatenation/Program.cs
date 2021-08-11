@@ -12,10 +12,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-           
-
-
-            using (Process p = new Process())
+           using (Process p = new Process())
             {
                 p.StartInfo.UseShellExecute = false;
                 p.StartInfo.CreateNoWindow = false;
